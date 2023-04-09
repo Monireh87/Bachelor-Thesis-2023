@@ -1,0 +1,26 @@
+{signal: 
+ [
+  ['Misc',
+    {name: 'C',      wave: 'P.......|..|...'},
+    {name: 'R',      wave: '1.0.....|..|...'},
+  ],
+  {},
+  ['UART',
+    {name: 'TXD',    wave: '1......0|10|1..', node: '.......ab...cd..'}, 
+  ],
+  {},
+  ['Parallel',
+    {name: 'TR',     wave: 'x...=x.........', data: ['dat0']},
+    {name: 'THRE',   wave: '1....0.1.......'}, 
+    {name: 'THRL',   wave: '0...10.........'},
+    {name: 'TRE',    wave: '1.....0......1.'},
+  ],
+ ],
+edge: [
+   'a<->b start', 'b<->c dat0', 'c<->d stop',
+],
+foot:{
+ text:'UART transmit timing',
+ tock: 1
+},
+}

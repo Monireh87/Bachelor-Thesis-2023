@@ -1,0 +1,43 @@
+C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/utils.vhd {1 {vcom -work work -87 -stats=none C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/utils.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity synchroniser
+-- Compiling architecture Behaviour of synchroniser
+-- Compiling entity Counter
+-- Compiling architecture Behaviour of Counter
+
+} {} {}} C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/miniuart.vhd {1 {vcom -work work -87 -stats=none C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/miniuart.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UART
+-- Compiling architecture Behaviour of UART
+
+} {} {}} C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Rxunit.vhd {1 {vcom -work work -87 -stats=none C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Rxunit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RxUnit
+-- Compiling architecture Behaviour of RxUnit
+
+} {} {}} C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/sim/ModelSim/test_bench3/test.vhd {1 {vcom -work work -87 -stats=none C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/sim/ModelSim/test_bench3/test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TEST_MINIUART
+-- Compiling architecture ARCH_TEST_BENCH of TEST_MINIUART
+
+} {} {}} C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Txunit.vhd {1 {vcom -work work -87 -stats=none C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Txunit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TxUnit
+-- Compiling architecture Behaviour of TxUnit
+
+} {} {}}

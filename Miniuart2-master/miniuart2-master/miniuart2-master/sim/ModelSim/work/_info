@@ -1,0 +1,240 @@
+m255
+K4
+z0
+o
+cModel Technology
+dC:\pCarton\MiniUART\sim\rtl_sim
+Ecounter
+Z0 w1042382852
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/sim/ModelSim
+Z4 8C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/utils.vhd
+Z5 FC:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/utils.vhd
+l0
+L102
+V_LF?Rh3Xa4N[`k]FaZ=`81
+!s100 5mH50[R:Z7OR5HP<M:fe43
+Z6 OV;C;10.5b;63
+30
+Z7 !s110 1679837121
+!i10b 1
+Z8 !s108 1679837121.000000
+Z9 !s90 -reportprogress|300|-work|work|-87|-stats=none|C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/utils.vhd|
+Z10 !s107 C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/utils.vhd|
+!i113 1
+Z11 o-work work -87
+Z12 tCvgOpt 0
+Abehaviour
+R1
+R2
+DEx4 work 7 counter 0 22 _LF?Rh3Xa4N[`k]FaZ=`81
+l112
+L111
+VA@VM[HMmlQY?FF7S=3d6c3
+!s100 h_nO[413P=2OJ<PMBIRL]1
+R6
+30
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Erxunit
+R0
+R1
+R2
+R3
+Z13 8C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Rxunit.vhd
+Z14 FC:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Rxunit.vhd
+l0
+L34
+VgVPRACLTE]L?NZYz;<2I70
+!s100 9ODNeS^HXKUbhf8`AmU4b2
+R6
+30
+R7
+!i10b 1
+R8
+Z15 !s90 -reportprogress|300|-work|work|-87|-stats=none|C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Rxunit.vhd|
+Z16 !s107 C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Rxunit.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 6 rxunit 0 22 gVPRACLTE]L?NZYz;<2I70
+l48
+L45
+VSOUNoB;iz4JYR:K=6fLI40
+!s100 B[b^NBKG_05ia6khT9F]z0
+R6
+30
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+R12
+Esynchroniser
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L50
+V26<<O_@^I>EX@zFKc88ec3
+!s100 lzj;ZO]XM]GCARLffX^BP3
+R6
+30
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 12 synchroniser 0 22 26<<O_@^I>EX@zFKc88ec3
+l61
+L57
+VhAWT5]S@l[PEbeV_HUkGd1
+!s100 ?^eWSchPX<kjGb6AVdF1z1
+R6
+30
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etest_miniuart
+Z17 w1679837102
+R1
+R2
+R3
+Z18 8C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/sim/ModelSim/test_bench3/test.vhd
+Z19 FC:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/sim/ModelSim/test_bench3/test.vhd
+l0
+L29
+VEfR3FZ1II]T1c6hHJk3Iz1
+!s100 L_d9;;N`?l0>nD]RZlU6[3
+R6
+30
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|-work|work|-87|-stats=none|C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/sim/ModelSim/test_bench3/test.vhd|
+Z21 !s107 C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/sim/ModelSim/test_bench3/test.vhd|
+!i113 1
+R11
+R12
+Aarch_test_bench
+R1
+R2
+DEx4 work 13 test_miniuart 0 22 EfR3FZ1II]T1c6hHJk3Iz1
+l87
+L35
+V[a^M=>GeQI[ejbZj9Pc_:1
+!s100 iAY8E<Y@]FjF`CiWAg?jD2
+R6
+30
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+R12
+Etxunit
+R0
+R1
+R2
+R3
+Z22 8C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Txunit.vhd
+Z23 FC:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Txunit.vhd
+l0
+L35
+V88l>z^TzQ=C@An@LWz5j^0
+!s100 BD4a8<Sj?gB_eNaPUN[LT2
+R6
+30
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-87|-stats=none|C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Txunit.vhd|
+Z25 !s107 C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/Txunit.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 6 txunit 0 22 88l>z^TzQ=C@An@LWz5j^0
+l60
+L46
+Vh78EOPNJ<M_E;KlFTbez61
+!s100 7XR[6KaoNa[JDe=BKG2aX0
+R6
+30
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
+Euart
+R0
+R1
+R2
+R3
+Z26 8C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/miniuart.vhd
+Z27 FC:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/miniuart.vhd
+l0
+L36
+VXTUgboXcK9U;FkRRB;UT51
+!s100 1@X0Tam=J]KMHFMKg>XSS3
+R6
+30
+R7
+!i10b 1
+R8
+Z28 !s90 -reportprogress|300|-work|work|-87|-stats=none|C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/miniuart.vhd|
+Z29 !s107 C:/Users/Moni/Desktop/UART/miniuart2-master/miniuart2-master/rtl/vhdl/miniuart.vhd|
+!i113 1
+R11
+R12
+Abehaviour
+R1
+R2
+DEx4 work 4 uart 0 22 XTUgboXcK9U;FkRRB;UT51
+l102
+L57
+VTk?Umi;f>A9eFBfM3cEhl0
+!s100 fKDYOOY@=0=BkmK]9L_dh1
+R6
+30
+R7
+!i10b 1
+R8
+R28
+R29
+!i113 1
+R11
+R12

@@ -1,0 +1,26 @@
+{signal: 
+ [
+  ['Misc',
+    {name: 'C',   wave: 'P...|..|....'},
+    {name: 'R',   wave: '10..|..|....'},
+  ],
+  {},
+  ['UART',
+    {name: 'RXD', wave: '1..0|10|1...', node: '...ab...c.d..'}, 
+  ],
+  {},
+  ['Parallel',
+    {name: 'RR',  wave: '=........=..', data: ['0x00', 'dat0']},
+    {name: 'PE',  wave: '0...........'},
+    {name: 'FE',  wave: '0...........'},
+    {name: 'DR',  wave: '0........10.'},
+  ],
+ ],
+edge: [
+   'a<->b start', 'b<->c dat0', 'c<->d stop',
+],
+foot:{
+ text:'UART receive timing',
+ tock: 1
+},
+}
